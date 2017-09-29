@@ -11,6 +11,6 @@ res2 = n1 - n2;
 console.log(`  [ 2 ] - Subtração = ${res2} \n`);
 res3 = n1 / n2;
 console.log(`  [ 3 ] - Divisão = ${res3} \n`);
-res2 = n1 * n2;
+res4 = n1 * n2;
 console.log(`  [ 4 ] - Multipĺicação = ${res4} \n`);
 
