@@ -1,6 +1,6 @@
 var x = 10, y = 15;
 
-console.log('Calculadora:');
+console.log('----- Calculadora ----- :');
 
 sum = x + y;
 console.log(`Soma : ${sum}`);
