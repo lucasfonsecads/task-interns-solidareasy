@@ -13,7 +13,7 @@ seguido da função de callback.
 -> req e res objetos que o node fornece, você pode 
 chamar qualquer coisa que você quiser fazer 
 sem involver o Express.*/
-	res.send('Ola Mundo');
+	res.end(fs.readFileSync('/home/wesandrade/task-interns-solidareasy/Node-express/index.html'));
 });
 
 var server = app.listen(3000);
